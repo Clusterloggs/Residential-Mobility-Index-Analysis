@@ -102,7 +102,7 @@ The dataset is stored as a CSV file and imported for analysis.
 Project/
 ├── README.md            # Project overview and documentation
 ├── Residential Mobility Index Analysis.R       # R script with analysis code
-└── data/                # Folder for raw data files
+└── hh_churn_lsoa11_2023                # dataset used
 
 ```
 
